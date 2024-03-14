@@ -24,7 +24,7 @@ Must use grunt to compile js and sass, so the submission must include src and de
 Output expected -
 1. Use bootstrap5 html framework to code the webpage
 2. Image should only load when in viewport
-3. Webpage must be responsive and must use grid structure
+3. Webpage must be responsive and must use grid structure ( 4-5 images on desktop and 2 images on tablet, 1 image on mobile)
 4. Use Vanilla Js/jQuery wherever is required, no external plugins allowed.
 5. Image box must always be square and image should always fill the box
 6. Image should not lose its aspect ratio
