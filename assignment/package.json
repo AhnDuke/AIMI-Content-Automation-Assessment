@@ -1,5 +1,18 @@
 {
-  "dependencies": {
-    "bootstrap": "^5.3.3"
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "description": "Image gallery project",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.4.1",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-sass": "^2.0.0",
+    "grunt-contrib-watch": "^1.1.0"
   }
 }
