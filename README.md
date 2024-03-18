@@ -1,6 +1,6 @@
 ## ASSIGNMENT IS DEPLOYED BELOW
-# https://ahnduke.github.io/AIMI-Content-Automation-Assessment/
+https://ahnduke.github.io/AIMI-Content-Automation-Assessment/
 
 
 ## TO RUN 
-# Open 'assignment/dist/index.html' in browser.
+Open 'assignment/dist/index.html' in browser.
