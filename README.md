@@ -1,3 +1,6 @@
-See assignment.txt for the assignment
+## ASSIGNMENT IS DEPLOYED BELOW
+# https://ahnduke.github.io/AIMI-Content-Automation-Assessment/
 
-Assignment Time :: approx. 2-3 hours 
+
+## TO RUN 
+# Open 'assignment/dist/index.html' in browser.
