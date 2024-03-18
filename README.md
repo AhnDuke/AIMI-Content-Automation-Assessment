@@ -3,4 +3,5 @@ https://ahnduke.github.io/AIMI-Content-Automation-Assessment/
 
 
 ## TO RUN 
-Open 'assignment/dist/index.html' in browser.
+1. Clone repo
+2. Open 'index.html' file located in 'assignment/dist/' in browser.
